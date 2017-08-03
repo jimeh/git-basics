@@ -598,3 +598,7 @@ And run `git log --all --graph --decorate --oneline` again to see how the
     * | b685a76 Update Milk and Steak, and add Shampoo
     |/
     * 3e6b8d7 Initial commit
+
+## License
+
+[CC0 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/)
