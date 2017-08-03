@@ -16,13 +16,13 @@ Let's create a shopping list, and track it via git.
     mkdir shopping-list
     cd shopping-list
 
-### 2. Initialize shopping-list as a new git repository
+### 2. Initialize `shopping-list` as a new git repository
 
     git init
 
 ### 3. Create a file
 
-Create a file called "shopping-list.md" with the following content:
+Create a file called `shopping-list.md` with the following content:
 
     # My Shopping List
 
@@ -123,7 +123,7 @@ Will print:
 
     * master
 
-This means we only have the default branch named "master" right now.
+This means we only have the default branch named `master` right now.
 
 ### 2. Create and switch to a new branch
 
@@ -305,7 +305,7 @@ To do this, we'll switch back to master and make the changes as required.
 
     git checkout master
 
-And confirmation you've switched:
+Prints confirmation you've switched:
 
     Switched to branch 'master'
 
