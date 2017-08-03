@@ -1,4 +1,4 @@
-# Git Basics Tutorial 0.1.0
+# Git Basics Tutorial 0.1.0-alpha.1
 
 ## Setup
 
